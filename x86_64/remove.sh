@@ -16,4 +16,5 @@
 #
 #################################################################################################################
 
-repo-remove natto-repo.db.tar.gz dolphin-root-19.12.2-1-x86_64.pkg.tar.xz
+repo-add natto-repo.db.tar.gz *.pkg.tar.xz
+ 
